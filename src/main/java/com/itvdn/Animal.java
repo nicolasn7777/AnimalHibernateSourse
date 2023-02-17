@@ -3,10 +3,6 @@ package com.itvdn;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-/**
- * Created by Asus on 22.04.2018.
- */
-
 @Entity
 public class Animal {
 
